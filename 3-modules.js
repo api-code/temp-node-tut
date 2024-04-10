@@ -9,7 +9,7 @@ const data = require('./6-alternative-sol')
 //we can invoke module direclty like this
 require('./7-mind-grenade')
 
-// console.log(data)
+console.log(data)
 // console.log(sayHi)
 
 // sayHi('susan')
